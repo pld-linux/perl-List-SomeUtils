@@ -8,13 +8,13 @@
 Summary:	List::SomeUtils - Provide the stuff missing in List::Util
 Summary(pl.UTF-8):	List::SomeUtils - funkcje brakujące w List::Util
 Name:		perl-List-SomeUtils
-Version:	0.53
+Version:	0.58
 Release:	1
 # same as perl 5
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/List/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	bde33a340a9644368ac2d47d2cac8bb5
+# Source0-md5:	d35e2233abcd8712792e6a3548f41181
 URL:		http://search.cpan.org/dist/List-SomeUtils/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
