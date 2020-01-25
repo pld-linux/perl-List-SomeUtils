@@ -4,7 +4,6 @@
 #
 %define		pdir	List
 %define		pnam	SomeUtils
-%include	/usr/lib/rpm/macros.perl
 Summary:	List::SomeUtils - Provide the stuff missing in List::Util
 Summary(pl.UTF-8):	List::SomeUtils - funkcje brakujące w List::Util
 Name:		perl-List-SomeUtils
